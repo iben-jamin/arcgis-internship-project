@@ -55,12 +55,19 @@ Being a current student at UTC, I frequently travel to the school and nearby caf
 
 
 ## Results / Insights
+The completed ArcGIS StoryMap brought together multiple GIS internship projects into one interactive, public-facing presentation. Through spatial analysis and visualization, the project helped communicate patterns related to population distribution, consumer spending activity, mapped polygon features, and local coffee shop locations.
 
+Key insights included the ability to compare geographic areas based on population and spending trends, identify areas with different levels of activity, and present spatial data in a format that is easier for both technical and non-technical audiences to understand. The public-facing maps also improved accessibility by allowing users to explore location-based information interactively rather than viewing static data tables or reports.
 
-## Screenshots
+Overall, the project demonstrated how GIS and data visualization can support county planning, public communication, and data-driven decision-making.
 
 
 ## Lessons Learned
+This project strengthened my understanding of how geospatial analysis connects with data science, visualization, and public-facing technology. I gained experience preparing spatial datasets, creating polygon-based features, managing web layers, and using ArcGIS Online and StoryMaps to communicate location-based insights.
+
+I also learned how important data storytelling is when presenting technical information. Instead of only creating maps, I focused on organizing the project in a way that allowed users to understand the purpose, explore the data, and interpret patterns visually. Working with ArcPy and notebook-based workflows also helped me better understand how programming can support GIS analysis, automation, and more efficient geospatial processing.
+
+This project helped me build stronger skills in spatial analysis, interactive visualization, technical communication, and applying data tools to real-world planning and public information needs.
 
 
 ## Live Demo / Link
